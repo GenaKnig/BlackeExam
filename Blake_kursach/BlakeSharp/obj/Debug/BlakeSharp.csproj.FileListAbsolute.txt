@@ -1,0 +1,16 @@
+D:\Projeckt\Convector\Build\BlakeSharp\Debug\BlakeSharp.dll
+D:\Projeckt\Convector\Build\BlakeSharp\Debug\BlakeSharp.pdb
+D:\Projeckt\Convector\BlakeSharp\obj\Debug\BlakeSharp.dll
+D:\Projeckt\Convector\BlakeSharp\obj\Debug\BlakeSharp.pdb
+D:\Projeckt\Convector\BlakeSharp\obj\Debug\BlakeSharp.csprojResolveAssemblyReference.cache
+D:\Projeckt\Blake_kursach\Build\BlakeSharp\Debug\BlakeSharp.dll
+D:\Projeckt\Blake_kursach\Build\BlakeSharp\Debug\BlakeSharp.pdb
+D:\Projeckt\Blake_kursach\BlakeSharp\obj\Debug\BlakeSharp.csprojResolveAssemblyReference.cache
+D:\Projeckt\Blake_kursach\BlakeSharp\obj\Debug\BlakeSharp.dll
+D:\Projeckt\Blake_kursach\BlakeSharp\obj\Debug\BlakeSharp.pdb
+E:\DISK D\Projeckt\Blake_kursach\Build\BlakeSharp\Debug\BlakeSharp.dll
+E:\DISK D\Projeckt\Blake_kursach\Build\BlakeSharp\Debug\BlakeSharp.pdb
+E:\DISK D\Projeckt\Blake_kursach\BlakeSharp\obj\Debug\BlakeSharp.csprojAssemblyReference.cache
+E:\DISK D\Projeckt\Blake_kursach\BlakeSharp\obj\Debug\BlakeSharp.csproj.CoreCompileInputs.cache
+E:\DISK D\Projeckt\Blake_kursach\BlakeSharp\obj\Debug\BlakeSharp.dll
+E:\DISK D\Projeckt\Blake_kursach\BlakeSharp\obj\Debug\BlakeSharp.pdb

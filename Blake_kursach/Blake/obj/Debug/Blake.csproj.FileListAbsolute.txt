@@ -1,0 +1,24 @@
+D:\Projeckt\Blake_kursach\Blake\bin\Debug\Blake.exe.config
+D:\Projeckt\Blake_kursach\Blake\bin\Debug\Blake.exe
+D:\Projeckt\Blake_kursach\Blake\bin\Debug\Blake.pdb
+D:\Projeckt\Blake_kursach\Blake\obj\Debug\Blake.csprojResolveAssemblyReference.cache
+D:\Projeckt\Blake_kursach\Blake\obj\Debug\Blake.Form1.resources
+D:\Projeckt\Blake_kursach\Blake\obj\Debug\Blake.Properties.Resources.resources
+D:\Projeckt\Blake_kursach\Blake\obj\Debug\Blake.csproj.GenerateResource.Cache
+D:\Projeckt\Blake_kursach\Blake\obj\Debug\Blake.exe
+D:\Projeckt\Blake_kursach\Blake\obj\Debug\Blake.pdb
+D:\Projeckt\Blake_kursach\Blake\bin\Debug\BlakeSharp.dll
+D:\Projeckt\Blake_kursach\Blake\bin\Debug\BlakeSharp.pdb
+E:\DISK D\Projeckt\Blake_kursach\Blake\bin\Debug\Blake.exe.config
+E:\DISK D\Projeckt\Blake_kursach\Blake\bin\Debug\Blake.exe
+E:\DISK D\Projeckt\Blake_kursach\Blake\bin\Debug\Blake.pdb
+E:\DISK D\Projeckt\Blake_kursach\Blake\bin\Debug\BlakeSharp.dll
+E:\DISK D\Projeckt\Blake_kursach\Blake\bin\Debug\BlakeSharp.pdb
+E:\DISK D\Projeckt\Blake_kursach\Blake\obj\Debug\Blake.csprojAssemblyReference.cache
+E:\DISK D\Projeckt\Blake_kursach\Blake\obj\Debug\Blake.Form1.resources
+E:\DISK D\Projeckt\Blake_kursach\Blake\obj\Debug\Blake.Properties.Resources.resources
+E:\DISK D\Projeckt\Blake_kursach\Blake\obj\Debug\Blake.csproj.GenerateResource.cache
+E:\DISK D\Projeckt\Blake_kursach\Blake\obj\Debug\Blake.csproj.CoreCompileInputs.cache
+E:\DISK D\Projeckt\Blake_kursach\Blake\obj\Debug\Blake.csproj.CopyComplete
+E:\DISK D\Projeckt\Blake_kursach\Blake\obj\Debug\Blake.exe
+E:\DISK D\Projeckt\Blake_kursach\Blake\obj\Debug\Blake.pdb
