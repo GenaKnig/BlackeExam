@@ -1,5 +1,6 @@
-﻿
-
+/*Public domain implementation of the BLAKE hash algorithm
+  by Dominik Reichl <dominik.reichl@t-online.de>﻿
+*/
 using System;
 using System.Security.Cryptography;
 
